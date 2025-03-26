@@ -1,1 +1,16 @@
+.android/
+.bash_history
+.dbus-keyrings/
+.gradle/
+.javacpp/
+.vscode/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+OneDrive/
+Pictures/
+Videos/
+ntuser.dat.*
 

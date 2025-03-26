@@ -1,22 +1,39 @@
-# Ignorar archivos de configuración de sistema
+# Archivos y carpetas del sistema
 *.log
-*.dat
 *.bak
 *.swp
 *.tmp
-
-# Ignorar directorios de sistema
-/.android/
-/.vscode/
-/AppData/
-/OneDrive/
-/Desktop/
-/Documents/
-/Downloads/
-/Pictures/
-/Videos/
-
-# Ignorar archivos de usuario
 ntuser.dat
+NTUSER.DAT
+ntuser.ini
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del sistema
+**/.android/
+**/.vscode/
+**/AppData/
+**/Cookies/
+**/Datos de programa/
+**/Favorites/
+**/Links/
+**/Microsoft/
+**/Music/
+**/Saved Games/
+**/Searches/
+
+# Archivos de Java
+**/*.log
+**/*.sql
+
+# Otros archivos no rastreados
+**/.emulator_console_auth_token
+**/.gitconfig
+**/.lesshst
+**/.openjfx/
+**/.sambox.cache
+**/.skiko/
+**/.viminfo
+
 
 

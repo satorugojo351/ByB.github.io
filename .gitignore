@@ -34,6 +34,29 @@ Thumbs.db
 **/.sambox.cache
 **/.skiko/
 **/.viminfo
-
+NTUSER.DAT
+NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf
+NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+.emulator_console_auth_token
+.gitconfig
+.lesshst
+.openjfx/
+.sambox.cache
+.skiko/
+.viminfo
+AndroidStudioProjects/
+Favorites/
+Links/
+Microsoft/
+Music/
+Saved Games/
+Searches/
+java_error_in_studio_15964.log
+java_error_in_studio_472.log
+respaldobyb.sql
 
 

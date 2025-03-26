@@ -1,16 +1,22 @@
-.android/
-.bash_history
-.dbus-keyrings/
-.gradle/
-.javacpp/
-.vscode/
-AppData/
-Contacts/
-Desktop/
-Documents/
-Downloads/
-OneDrive/
-Pictures/
-Videos/
-ntuser.dat.*
+# Ignorar archivos de configuración de sistema
+*.log
+*.dat
+*.bak
+*.swp
+*.tmp
+
+# Ignorar directorios de sistema
+/.android/
+/.vscode/
+/AppData/
+/OneDrive/
+/Desktop/
+/Documents/
+/Downloads/
+/Pictures/
+/Videos/
+
+# Ignorar archivos de usuario
+ntuser.dat
+
 

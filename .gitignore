@@ -50,6 +50,20 @@
 **/ntuser.ini
 **/respaldobyb.sql
 
+**/.bash_history
+**/.dbus-keyrings/
+**/.gradle/
+**/.javacpp/
+**/Contacts/
+**/Desktop/
+**/Documents/
+**/Downloads/
+**/OneDrive/
+**/Pictures/
+**/Videos/
+**/ntuser.dat.LOG1
+**/ntuser.dat.LOG2
+
 
 
 
